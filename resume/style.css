@@ -1,36 +1,70 @@
-body { 
-	font-family:Open Sans;
+#containter { 
+	font-family:font-family: "Open Sans", sans-serif;
 	font-size: 1em; 
 	color: #444;  
+	width: 100px;
+	maximum-width: 1200px
+	padding-bottom: 50px;
+	margin: 0 auto;
+	color: blue;
 	}
 
-h1 {
+<!-- Changed from h1 -->
+#name {
 	font-size: 3em;
 	color:#33485e;
 	text-transform: uppercase;
 	text-align: center;
+	border: 1px #33485e;
+	border-bottom: 1px solid #33485e;
 	}
 
-h2 {
+<!-- Changed from h2 -->
+.sectionheader {
 	font-size: 1.5em;
 	text-transform: uppercase;
 	background-color: #33485e;
 	color: white;
 	font-weight: 400;
+	margin: 20px 10px 0px;
+	padding-top: 5px; 
+	padding-top: 5 px;
+	padding-right: 0px;
+	padding-left: 10px;
+	width: 100%;
+	width-minimum: 300px;
 	}  
-
-h3 {
+<!-- Changed from h3 -->
+.jobtitle {
 	font-size: 1.5 em;
 	font-weight: 600; 
 	}
-
-h4 { 
-	font-size: 1.5 em;
+<!-- Changed from h4 -->
+.organization { 
+	font-size: 1.2 em;
 	font-weight: 400;
 	font-style: italic;
 	}
-
-h5 {	font-size: 1 em;
+<!-- Changed from h5 -->
+.date {	font-size: 1 em;
 	font-weight: 700;
+	margin: 2px 0px;
 	}
 
+ul {	font-size: 1 em;
+	}
+
+#title { 
+	font-size: 1.5 em;
+	color: #33485e;
+	text-transform: uppercase;
+	}
+
+.description {
+	margin: 10px 0 px;
+
+ul.menu {
+	margin: 10px 20px 0 px;
+	padding: 0px;
+	text-align: center;
+	
