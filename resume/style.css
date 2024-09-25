@@ -31,10 +31,23 @@ ul.menu {
 	text-align: center;
 	}
 
+#headshot-container {
+	text-align: center;
+	}
+#headshot {
+	width: 150px;
+	object fit: cover;
+	border-radius: 50%;
+	border: 5px solid #33485e;
+	}
+
 #title { 
 	font-size: 1.5 em;
 	color: #33485e;
 	text-transform: uppercase;
+	font-weight: 600;
+	text-align: center;
+	margin: 20px 0px;
 	}
 
 
@@ -63,7 +76,6 @@ ul.menu {
 	font-style: italic;
 	}
 
-
 .date {	
 	font-size: 1 em;
 	font-weight: 700;
@@ -74,4 +86,13 @@ ul.menu {
 .description {
 	margin: 10px 0px;
 	}
+
+#degrees {
+	margin: 5px 0px;
+	}
+
+#do {
+	margin: 5px 0px;
+	}
+	
 
