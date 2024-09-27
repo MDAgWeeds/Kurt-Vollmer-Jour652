@@ -31,6 +31,19 @@ ul.menu {
 	text-align: center;
 	}
 
+.menu a:link {
+	font-weight: 600;
+	color: #0bc5f4;
+	}
+
+.menu a:hover {
+	color: #33485e;
+	}
+
+.menu a:visited {
+	color: #6e38c7;
+	}
+
 #headshot-container {
 	text-align: center;
 	}
