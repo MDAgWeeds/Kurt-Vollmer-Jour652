@@ -1,3 +1,4 @@
+/*styles for my resume*/
 
 #container { 
 	font-family: "Open Sans", sans-serif;
@@ -31,6 +32,11 @@ ul.menu {
 	text-align: center;
 	}
 
+.menu li {
+	display: inline;
+	padding: 0px 20px; 
+	}
+
 .menu a:link {
 	font-weight: 600;
 	color: #0bc5f4;
@@ -47,9 +53,11 @@ ul.menu {
 #headshot-container {
 	text-align: center;
 	}
+
 #headshot {
 	width: 150px;
-	object fit: cover;
+	height: 150px; 
+	object-fit: cover;
 	border-radius: 50%;
 	border: 5px solid #33485e;
 	}
