@@ -10,6 +10,7 @@
 	padding-bottom: 50px;
 	}
 
+/*changed from h1*/
 #name {
 	font-size: 3em;
 	color: #33485e;
@@ -27,7 +28,7 @@ ul {
 	}
 
 ul.menu {
-	margin: 10px 20px 0px;
+	margin: 10px 0px 20px;
 	padding: 0px;
 	text-align: center;
 	}
@@ -68,10 +69,10 @@ ul.menu {
 	text-transform: uppercase;
 	font-weight: 600;
 	text-align: center;
-	margin: 20px 0px;
+	margin: 20px 0px 0px;
 	}
 
-
+/*changed from h2*/
 .sectionheader {
 	font-size: 1.5em;
 	text-transform: uppercase;
@@ -84,36 +85,37 @@ ul.menu {
 	min-width: 300px;
 	}  
 
-
+/*changed from h3*/
 .jobtitle {
 	font-size: 1.5 em;
 	font-weight: 600; 
 	}
 
-
+/*changed from h4*/
 .organization { 
 	font-size: 1.2 em;
 	font-weight: 400;
 	font-style: italic;
 	}
 
+/*changed from h5*/
 .date {	
 	font-size: 1 em;
 	font-weight: 700;
 	margin: 2px 0px;
 	}
 
-
+/*changed from p*/
 .description {
 	margin: 10px 0px;
 	}
 
 #degrees {
-	margin: 5px 0px;
+	margin: 5px 0px 0px;
 	}
 
 #do {
-	margin: 5px 0px;
+	margin: 5px 0px 0px;
 	}
 	
 
