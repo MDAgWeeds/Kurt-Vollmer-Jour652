@@ -55,7 +55,8 @@ blockquote {
 	}
 
 #inline-image {
-	width:50%;
+	width: 500px;
+	height 400px;
 	object-fit: cover;
 	margin: 0 auto;
 	}
@@ -92,6 +93,6 @@ blockquote {
 	}
 
 .footer {
-	text-align-center;
-	text-color: #fbfbfd;	
+	text-align: center;
+	color: #fbfbfd;	
 	}
