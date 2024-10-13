@@ -1,3 +1,6 @@
+#masthead {
+	width: 900px;
+	}
 
 #content {
 	margin: 0 auto;
@@ -6,7 +9,8 @@
 
 #lead-image-container {
 	text-align: left;
-	font-size: 1em;
+	font-size: 10px;
+	font-family: Georgia, serif;
 	color: #5a5959; 
 	margin-bottom: 20px;
 	}
@@ -53,7 +57,7 @@ p { font-family: Georgia, serif;
 
 blockquote {
 	display: block;
-	margin-top: 1 em;
+	margin-top: 1em;
 	margin-bottom: 1em;
 	margin-left: 200px;
 	margin-right: 200px;
@@ -87,9 +91,9 @@ blockquote {
 	}
 
 .links a:hover {
-	color: #33485e;
+	color: #25ce2e;
 	}
 
 .links a:visited {
-	color: #e333ff;
+	color: #f74e2a;
 	}
