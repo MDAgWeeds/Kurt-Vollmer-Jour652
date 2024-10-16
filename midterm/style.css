@@ -1,0 +1,22 @@
+#page-wrapper {
+	margin: 0 auto;
+	width: 950px;
+	}
+h1{ 
+	font-family: Georgia, serif; 
+	font-size: 50px;
+	}
+
+#byline {font-family: Georgia, serif; 
+	font-size: 30px;
+	font-style: italic;
+	}
+
+.subheading {
+	font-family: Arial, sans-serif;
+	font-size: 25px;
+	}
+
+p{	font-family: Helvetica, Arial, sans-serif;
+	font-size: 12px;
+	}
