@@ -1,3 +1,8 @@
+#lead-image-container {
+	}
+
+#lead-image {
+	}
 #page-wrapper {
 	margin: 0 auto;
 	width: 950px;
@@ -17,6 +22,44 @@ h1{
 	font-size: 25px;
 	}
 
-p{	font-family: Helvetica, Arial, sans-serif;
+/*Another approach would be to change p to a class element*/
+p {	font-family: Helvetica, Arial, sans-serif;
 	font-size: 12px;
+	}
+
+#first-inline-image-container {
+	}
+
+#first-inline-image{
+	}
+
+blockquote{
+	display: block;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-left: 200px;
+	margin-right: 200px;
+	border-left: 4px solid #C8102E;
+	font-size: 2em;
+	font-weight: 600;
+	color: 	#1D428A;
+	}
+
+#second-inline-image-container {
+	}
+
+#second-inline-image {
+	}
+
+#third-inline-image-container {
+	}
+
+#third-inline-image {
+	}
+
+
+#chart-container {
+	}
+
+#Chart {
 	}
