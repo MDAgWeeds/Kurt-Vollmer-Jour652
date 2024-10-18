@@ -1,8 +1,20 @@
+#masthead {
+	width: 100%;
+	}
 #lead-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Georgia, serif;
+	color: #5a5959; 
+	margin-bottom: 20px;
 	}
 
 #lead-image {
+	width: 100%;
+	object-fit: cover;
+	margin: 0 auto;
 	}
+
 #page-wrapper {
 	margin: 0 auto;
 	width: 950px;
@@ -22,44 +34,91 @@ h1{
 	font-size: 25px;
 	}
 
-/*Another approach would be to change p to a class element*/
+/*Another approach would be to target p to a class element*/
 p {	font-family: Helvetica, Arial, sans-serif;
 	font-size: 12px;
 	}
 
 #first-inline-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 500px;
+	height: 0 auto;
+	color: #5a5959;
+	margin: 10px 20px 10px 0px;
+	float: left;
 	}
 
-#first-inline-image{
+#first-inline-image {
+	width: 100%;
+	height: 0 auto;
+	object-fit: cover;
+	margin: 0 auto;
 	}
 
 blockquote{
 	display: block;
 	margin-top: 1em;
 	margin-bottom: 1em;
-	margin-left: 200px;
-	margin-right: 200px;
-	border-left: 4px solid #C8102E;
+	margin-left: 250px;
+	margin-right: 110px;
+	border-right: 4px solid #ca2605;
 	font-size: 2em;
 	font-weight: 600;
-	color: 	#1D428A;
+	color: 	#031960;
 	}
 
 #second-inline-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 450px;
+	height: 0 auto;
+	color: #5a5959;
+	margin: 10px 0px 10px 10px;
+	float: right;
 	}
 
 #second-inline-image {
+	width: 100%;
+	height: 0 auto;
+	object-fit: cover;
+	margin: 0 auto;
 	}
 
 #third-inline-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 450px;
+	height: 0 auto;
+	color: #5a5959;
+	margin: 10px 20px 10px 0px;
+	float: left;
 	}
 
 #third-inline-image {
+	width: 100%;
+	height: 0 auto;
+	object-fit: cover;
+	margin: 0 auto;
 	}
-
 
 #chart-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Helvetica, Arial, sans-serif;
+	width: 500px;
+	height: 0 auto;
+	color: #5a5959;
+	margin: 10px 0px 10px 10px;
+	float: right;
 	}
 
-#Chart {
+#chart {
+	width: 100%;
+	height: 0 auto;
+	object-fit: cover;
+	margin: 0 auto;
 	}
