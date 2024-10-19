@@ -1,6 +1,9 @@
+/*This is my miderme stylesheet*/
+
 #masthead {
 	width: 100%;
 	}
+
 #lead-image-container {
 	text-align: left;
 	font-size: 10px;
@@ -19,12 +22,14 @@
 	margin: 0 auto;
 	width: 950px;
 	}
-h1{ 
+
+h1 { 
 	font-family: Georgia, serif; 
 	font-size: 50px;
 	}
 
-#byline {font-family: Georgia, serif; 
+#byline {
+	font-family: Georgia, serif; 
 	font-size: 30px;
 	font-style: italic;
 	}
@@ -57,7 +62,7 @@ p {	font-family: Helvetica, Arial, sans-serif;
 	margin: 0 auto;
 	}
 
-blockquote{
+blockquote {
 	display: block;
 	margin-top: 1em;
 	margin-bottom: 1em;
@@ -121,4 +126,18 @@ blockquote{
 	height: 0 auto;
 	object-fit: cover;
 	margin: 0 auto;
+	}
+
+
+.links a:link {
+	font-weight: 600;
+	color: #041c6d;
+	}
+
+.links a:hover {
+	color: #046d3c;
+	}
+
+.links a:visited {
+	color: #f87b0d;
 	}
