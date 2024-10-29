@@ -71,16 +71,11 @@ blockquote {
 	text-align: left;
 	font-size: 10px;
 	font-family: Georgia, serif;
-	width:400px;
-	height:300px;
 	color: #5a5959;
 	margin: 0 auto;
-	float: right;
 	}
 
 #second-inline-image {
-	width:300px;
-	height:200px;
 	object-fit: cover;
 	margin: 0 auto;
 	}
