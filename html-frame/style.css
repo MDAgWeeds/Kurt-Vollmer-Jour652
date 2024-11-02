@@ -1,3 +1,8 @@
+.container {
+	margin: 0 auto;
+	width: 900px;
+	}
+
 #headline {
 	font-family: "Poppins", sans-serif;
 	font-size: 3em
@@ -20,7 +25,8 @@
 	}
 
 #image {
-	width: 100%;
+	width: 100%
+	height: 0 auto;
 	object-fit: cover;
 	margin: 0 auto;
 	}
@@ -47,8 +53,13 @@ blockquote {
 	color: 	#1D428A;
 	}
 
+.col-4 {font-family: "Cormorant Garamond", serif;
+	font-size: 1em;
+	text align:center;
+	}
+
 .footer-container-fluid {
-	background: #6d1a02;
+	background: #067d1e;
 	width: 100%;
 	margin: 0 auto;
     	margin: 0 auto;
