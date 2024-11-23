@@ -25,7 +25,7 @@
 	}
 
 #image {
-	width: 75%;
+	width: 100%;
 	height: 0 auto;
 	object-fit: cover;
 	margin: 0 auto;
@@ -61,14 +61,30 @@ p {
 	}
 
 blockquote {
+  	border: none;
+ 	font-family: "Cormorant Garamond", serif;
 	display: block;
-	margin-top: 1em;
-	margin-bottom: 0 auto;
-	margin-left: 200px;
-	margin-right: 200px;
-	font-size: 1.5em;
+	margin-top: 1 em;
+	margin-bottom: 1 em;
+	margin-left: 100px;
+	margin-right: 100px;
+	font-size: 1em;
 	font-weight: 600;
-	color: 	#1D428A;
+	color: 	#031960	
+	}
+
+blockquote h3:before {
+  content: open-quote;
+  font-weight: bold;
+  font-size: 100px;
+  color: #889c0b;
+	}
+
+blockquote h3:after {
+  content: close-quote;
+  font-weight: bold;
+  font-size: 100px;
+  color: #889c0b;
 	}
 
 #percent-farmland-container {
@@ -104,6 +120,8 @@ blockquote {
 	object-fit: cover;
 	margin: 0 auto;
 	}
+
+
 .col-4 {font-family: "Cormorant Garamond", serif;
 	font-size: 1em;
 	text-align:center;
@@ -123,4 +141,17 @@ blockquote {
 	text-align: left;
 	color: white;	
 	font-family: "Poppins", sans-serif;
+	}
+
+.links a:link {
+	font-weight: 600;
+	color: #FFFFFF;
+	}
+
+.links a:hover {
+	color: #0000FF;
+	}
+
+.links a:visited {
+	color: #FF0000;
 	}
