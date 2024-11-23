@@ -31,6 +31,24 @@
 	margin: 0 auto;
 	}
 
+#first-inline-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: Georgia, serif;
+	width:600px;
+	height:450px;
+	color: #5a5959;
+	margin: 0 auto;
+	float: right;
+	}
+
+#first-inline-image {
+	width:500px;
+	height:400px;
+	object-fit: cover;
+	margin: 0 auto;
+	}
+
 .subheading {
 	font-family: "Poppins", sans-serif;
 	font-size: 1em;
