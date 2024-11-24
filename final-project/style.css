@@ -34,7 +34,7 @@
 #first-inline-image-container {
 	text-align: left;
 	font-size: 10px;
-	font-family: Georgia, serif;
+	font-family: "Poppins", sans-serif;
 	width:500px;
 	height:0 auto;
 	color: #5a5959;
@@ -64,10 +64,9 @@ blockquote {
   	border: none;
  	font-family: "Cormorant Garamond", serif;
 	display: block;
-	margin-top: 1 em;
-	margin-bottom: 1 em;
-	margin-left: 100px;
-	margin-right: 100px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	text-align: center;
 	font-size: 1em;
 	font-weight: 600;
 	color: 	#031960	
@@ -90,7 +89,7 @@ blockquote h3:after {
 #percent-farmland-container {
 	text-align: left;
 	font-size: 10px;
-	font-family: Georgia, serif;
+	font-family: "Poppins", sans-serif;
 	width:500px;
 	height:0 auto;
 	color: #5a5959;
@@ -108,13 +107,31 @@ blockquote h3:after {
 #farmland-price-container {
 	text-align: left;
 	font-size: 10px;
-	font-family: Georgia, serif;
+	font-family: "Poppins", sans-serif;
 	width:550px;
 	height:0 auto;
 	margin: 0 auto;
 	}
 
 #percent-farmland-image {
+	width:450px;
+	height:0 auto;
+	object-fit: cover;
+	margin: 0 auto;
+	}
+
+#sheep-solar-image-container {
+	text-align: left;
+	font-size: 10px;
+	font-family: "Poppins", sans-serif;
+	width:500px;
+	height:0 auto;
+	color: #5a5959;
+	margin: 0 auto;
+	float: right;
+	}
+
+#sheep-solar-image {
 	width:450px;
 	height:0 auto;
 	object-fit: cover;
