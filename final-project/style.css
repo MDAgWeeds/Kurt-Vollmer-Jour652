@@ -158,20 +158,8 @@ blockquote h3:after {
 	}
 
 .footer {
-	text-align: left;
+	text-align: right;
 	color: white;	
 	font-family: "Poppins", sans-serif;
 	}
 
-.links a:link {
-	font-weight: 600;
-	color: #FFFFFF;
-	}
-
-.links a:hover {
-	color: #0000FF;
-	}
-
-.links a:visited {
-	color: #FF0000;
-	}
