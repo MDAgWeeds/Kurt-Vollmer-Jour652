@@ -125,14 +125,6 @@ blockquote h3:after {
 	margin: 0 auto;
 	}
 
-
-.col-4 {font-family: "Cormorant Garamond", serif;
-	font-size: 1em;
-	text-align:center;
-	margin-top: 2em;
-	margin-bottom: 2em;
-	}
-
 .footer-container-fluid {
 	background: #067d1e;
 	width: 100%;
@@ -140,11 +132,6 @@ blockquote h3:after {
    	padding: 10px 0;
 	}
 
-.footer {
-	text-align: right;
-	color: white;	
-	font-family: "Poppins", sans-serif;
-	}
 
 
 
