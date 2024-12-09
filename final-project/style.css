@@ -74,14 +74,14 @@ blockquote h3:before {
   content: open-quote;
   font-weight: bold;
   font-size: 100px;
-  color: #889c0b;
+  color: #067d1e;
 	}
 
 blockquote h3:after {
   content: close-quote;
   font-weight: bold;
   font-size: 100px;
-  color: #889c0b;
+  color: #067d1e;
 	}
 
 #percent-farmland-container {
@@ -126,7 +126,7 @@ blockquote h3:after {
 	}
 
 .footer-container-fluid {
-	background: #067d1e;
+	background:#067d1e;
 	width: 100%;
 	margin: 100px 0px 0px;
    	padding: 10px 0;
