@@ -1,5 +1,4 @@
 
-
 #headline {
 	font-family: "Poppins", sans-serif;
 	font-size: 3em
@@ -33,7 +32,7 @@
 	text-align: left;
 	font-size: 10px;
 	font-family: "Poppins", sans-serif;
-	width:500px;
+	width:550px;
 	height:0 auto;
 	color: #5a5959;
 	margin: 0 auto;
@@ -41,7 +40,7 @@
 	}
 
 #first-inline-image {
-	width:450px;
+	width:525px;
 	height:0 auto;
 	object-fit: cover;
 	margin: 0 auto;
@@ -67,7 +66,7 @@ blockquote {
 	text-align: center;
 	font-size: 1em;
 	font-weight: 600;
-	color: 	#031960	
+	color: 	#031960;	
 	}
 
 blockquote h3:before {
@@ -88,7 +87,7 @@ blockquote h3:after {
 	text-align: left;
 	font-size: 10px;
 	font-family: "Poppins", sans-serif;
-	width:500px;
+	width:550px;
 	height:0 auto;
 	color: #5a5959;
 	margin: 0 auto;
@@ -96,7 +95,7 @@ blockquote h3:after {
 	}
 
 #percent-farmland-image {
-	width:450px;
+	width:525px;
 	height:0 auto;
 	object-fit: cover;
 	margin: 0 auto;
@@ -131,6 +130,9 @@ blockquote h3:after {
 	margin: 100px 0px 0px;
    	padding: 10px 0;
 	}
+
+
+
 
 
 
