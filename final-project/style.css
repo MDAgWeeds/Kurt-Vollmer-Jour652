@@ -54,32 +54,23 @@ p {
 	font-size: 1em;
 	}
 
-blockquote {
-  	border: none;
- 	font-family: "Cormorant Garamond", serif;
-	display: block;
-	margin-top: 10px;
-	margin-bottom: 20px;
-	text-align: center;
-	font-size: 1em;
-	font-weight: 600;
-	color: 	#031960;	
-	}
+.bi-quote {
+	font-weight: bold;
+	font-size: 100px;
+	color: #067d1e;
+}
 
-blockquote h3:before {
-  content: open-quote;
-  font-weight: bold;
-  font-size: 100px;
-  color: #067d1e;
-	}
+.blockquote {
+    	font-family: "Cormorant Garamond", serif;
+	font-size: 2em;
+	color: 	#031960;
+}
 
-blockquote h3:after {
-  content: close-quote;
-  font-weight: bold;
-  font-size: 100px;
-  color: #067d1e;
-	}
-
+.blockquote-footer {
+    	font-family: "Cormorant Garamond", serif;
+	font-size: 1.25em;
+	color: 	#031960;
+}
 
 #percent-farmland-image {
 	width:525px;
